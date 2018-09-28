@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "141647846560",
+    "firebase_url": "https://iotrodrigo-69b23.firebaseio.com",
+    "project_id": "iotrodrigo-69b23",
+    "storage_bucket": "iotrodrigo-69b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141647846560:android:d51157eb3e16074e",
+        "android_client_info": {
+          "package_name": "mob14.com.br.appavisonaodurma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141647846560-o4j4gj7stlkbqrs23cdevom1v70rel2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mob14.com.br.appavisonaodurma",
+            "certificate_hash": "a9f81223c8154eba0a0139fbb02c5fb9ee8d89eb"
+          }
+        },
+        {
+          "client_id": "141647846560-1hl4foerla25pb54kdkrppt5hkga2c3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlXZnqSvPL8RBb_wAZJatJsQ25Uoihajo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141647846560-1hl4foerla25pb54kdkrppt5hkga2c3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
